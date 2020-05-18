@@ -1,4 +1,6 @@
-# twitter
+# dweeter
+
+<img style="width: 300px;" src="https://github.com/alexgyllos/files/blob/master/dweeterpreview.png" alt="dweeter preview">
 
 ## Project setup
 ```
